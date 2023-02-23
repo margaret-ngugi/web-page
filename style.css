@@ -1,0 +1,35 @@
+*{
+    margin:2% ;
+    padding: 2px;
+}
+body{
+    background-image: url('person-bag.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+button{
+    position: relative;
+    font-weight: bold;
+    border-radius:25px;
+    padding: 1%;
+    font-size: large;
+}
+nav{
+  margin-left: 90px;
+  margin-right: 90px;
+}
+button{
+position: relative;
+top: auto;
+background-color:beige;
+padding: 2%;
+font-weight: 300px;
+font-size: large;
+border-radius: 25px;   
+}
+li{
+    display: inline-block;
+    margin: 10px;
+    list-style: none;left
+}  
